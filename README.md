@@ -38,7 +38,7 @@
 <br>
 
 ## ERD
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png" width="60%" height="60%" title="ERD" alt="ERD"></img>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png" width="70%" height="70%" title="ERD" alt="ERD"></img>
 
 
 <br>
