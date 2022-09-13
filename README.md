@@ -4,6 +4,7 @@
 <p>달별로 해당 날짜의 To-do 리스트를 확인하고 관리하는 캘린더</p>
 
 <br>
+<br>
 
 ## 프로젝트 기간
 <p>기획: 2022.01 ~ 2022.07</p>
@@ -11,16 +12,19 @@
 <p>배포: 2022.08 ~ 2022.09</p>
 
 <br>
+<br>
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <br>
+<br>
+
 ## ERD
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png" width="60%" height="60%" title="ERD" alt="ERD"></img>
 
 
-
+<br>
 <br>
 
 ## 주요 기능
@@ -28,7 +32,9 @@
 <br>
 ![](https://velog.velcdn.com/images/kiiim/post/6e5d45ce-4f46-4e93-b1ac-d63731d6a2c6/image.gif)  
 
-#### *회원가입/ 로그인:
+### 회원가입/로그인
+* 로그인 후에 캘린더 페이지에서 To-do를 조회
+* 회원별 To-do를 조회할 때 회원이 직접 지정한 To-do 색상이 적용된 상태에서 조회
 
 #### calendar : todo CRUD, ajax를 통해 비동기 방식으로 업데이트, 무한스크롤
 
@@ -37,7 +43,7 @@
 
 <br>
 
-## 3. 트러블슈팅
+## 트러블슈팅
 #### (1) Java version issue
 https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-01-02-Issue.md
 
@@ -53,16 +59,13 @@ https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-0
 #### (5) whitelabel error page
 https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-02-09-view.md
 
-#### (6) DB 로직 변경 사항
-https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-02-11-logicError.md
-
-#### (7) Spring EI Error (TypeError)
+#### (6) Spring EI Error (TypeError)
 https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-02-14-SpringElError.md
 
-#### (8) Java bean 에러
+#### (7) Java bean 생성 에러
 https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-03-16-javabean.md
 
-#### (9) isEmpty()
+#### (8) isEmpty()
 https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-03-18-calendarProcess.md
 
 <br>
