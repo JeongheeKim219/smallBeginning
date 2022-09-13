@@ -28,6 +28,9 @@ Dev Tools : Github, Intellij, Putty, Miro
 
 ⭐⭐이미지 캡쳐 : 회원가입/로그인 gif, todo CRUD gif, 캘린더 작동 gif
 ![](https://velog.velcdn.com/images/kiiim/post/fa44a42d-3f07-43df-8a89-f030360a6044/image.gif)  
+
+<br>
+
 ![](https://velog.velcdn.com/images/kiiim/post/6e5d45ce-4f46-4e93-b1ac-d63731d6a2c6/image.gif)  
 
 
