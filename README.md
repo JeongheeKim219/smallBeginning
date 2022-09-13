@@ -1,22 +1,24 @@
 # smallBeginning
 ## 프로젝트 소개
-To-do 리스트 형식의 간단한 일정정리 웹 애플리케이션  
-달별로 해당 날짜의 To-do 리스트를 확인하고 관리하는 캘린더
+<p>To-do 리스트 형식의 간단한 일정정리 웹 애플리케이션</p>
+<p>달별로 해당 날짜의 To-do 리스트를 확인하고 관리하는 캘린더</p>
 
 <br>
-#### 프로젝트 기간
-기획: 2022.01 ~ 2022.07
-개발: 2022.07 ~ 2022.08
-배포: 2022.08 ~ 2022.09
+
+## 프로젝트 기간
+<p>기획: 2022.01 ~ 2022.07</p>
+<p>개발: 2022.07 ~ 2022.08</p>
+<p>배포: 2022.08 ~ 2022.09</p>
 
 <br>
-#### 기술 스택
+
+## 기술 스택
 Front : HTML, CSS, Thymeleaf, Vanila JS
 Back : Spring Boot, MySQL(AWS RDS), Ec2(Server)
 Dev Tools : Github, Intellij, Putty, Miro
 
 ## ERD
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png)
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png" width="60%" height="60%" title="ERD" alt="ERD"></img>
 
 
 
