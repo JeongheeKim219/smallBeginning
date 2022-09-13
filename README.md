@@ -10,11 +10,15 @@ To-do 리스트 형식의 간단한 일정정리 웹 애플리케이션
 배포: 2022.08 ~ 2022.09
 
 <br>
-
 #### 기술 스택
 Front : HTML, CSS, Thymeleaf, Vanila JS
 Back : Spring Boot, MySQL(AWS RDS), Ec2(Server)
 Dev Tools : Github, Intellij, Putty, Miro
+
+## ERD
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png)
+
+
 
 <br>
 
