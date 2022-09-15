@@ -37,6 +37,12 @@
 <br>
 <br>
 
+## 서비스 아키텍쳐
+
+
+<br>
+<br>
+
 ## ERD
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvZn59%2FbtrL22Zgxwb%2FnqI5yoMQ31ENmjxjvy8k1k%2Fimg.png" width="70%" height="70%" title="ERD" alt="ERD"></img>
 
@@ -45,7 +51,7 @@
 <br>
 
 ## 주요 기능
-#### 회원가입/로그인
+### 회원가입/로그인
 ![](https://velog.velcdn.com/images/kiiim/post/fa44a42d-3f07-43df-8a89-f030360a6044/image.gif)  
 
 <br>
@@ -57,7 +63,7 @@
 
 <br>
 
-#### To-do CRUD
+### To-do CRUD
 ![](https://velog.velcdn.com/images/kiiim/post/6e5d45ce-4f46-4e93-b1ac-d63731d6a2c6/image.gif)  
 
 로그인 후에 캘린더 페이지에서 To-do를 조회, 생성, 수정, 삭제가 가능함  
@@ -74,6 +80,7 @@
 - To-do 생성 및 삭제의 경우 ajax를 통한 비동기 방식으로 진행
 - To-do 수정의 경우 페이지가 새로고침되며 변경된 내용을 확인할 수 있음
 
+<br>
 <br>
 
 ## 트러블슈팅
@@ -102,5 +109,8 @@ https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-0
 https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-03-18-calendarProcess.md
 
 <br>
+<br>
 
-## 4. 개선점
+## 4. 개선점(보완할점?)
+#### (1) Objective - Initiative - Result 응용
+상당수의 IT 기업에서 성과를 측정할 때 사용하는 OKR을 차용한 장기 목표 달성 기능을 추가
