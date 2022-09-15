@@ -45,18 +45,25 @@
 <br>
 
 ## 주요 기능
+#### 회원가입/로그인
 ![](https://velog.velcdn.com/images/kiiim/post/fa44a42d-3f07-43df-8a89-f030360a6044/image.gif)  
+
 <br>
+
+- 아이디, 비밀번호, 닉네임, 이메일을 입력 뒤 회원가입  
+- 회원가입이 완료되면 자동으로 login 페이지로 이동  
+- 아이디와 비밀번호가 DB에 저장된 회원정보와 일치하면 calendar 페이지로 이동
+- calendar 페이지 내에서 상단의 로그아웃 버튼으로 로그아웃을 할 수 있음
+
+<br>
+
+#### To-do CRUD
 ![](https://velog.velcdn.com/images/kiiim/post/6e5d45ce-4f46-4e93-b1ac-d63731d6a2c6/image.gif)  
 
-### 회원가입/로그인
 * 로그인 후에 캘린더 페이지에서 To-do를 조회
 * 회원별 To-do를 조회할 때 회원이 직접 지정한 To-do 색상이 적용된 상태에서 조회
-
-#### calendar : todo CRUD, ajax를 통해 비동기 방식으로 업데이트, 무한스크롤
-
-<br>
-
+- To-do 생성 및 삭제의 경우 ajax를 통한 비동기 방식으로 진행
+- 
 
 <br>
 
