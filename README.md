@@ -118,4 +118,5 @@ https://github.com/allogrooming/allogrooming.github.io/blob/master/_posts/2022-0
 
 <br>
 
-#### (2) 
+#### (2) 페이지 레이아웃 정비
+footer 추가, 여백 설정 등 
